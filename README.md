@@ -100,14 +100,8 @@ Clinica
 1 - Cadastrar Cliente
 2 - Cadastrar Veterinário
 3 - Cadastrar Animal
-4 - Agendar Consulta
-5 - Listar Clientes
-6 - Listar Veterinários
-7 - Listar Animais
-8 - Listar Consultas
-9 - Concluir Consulta
-10 - Testar Sons dos Animais
-11 - Relatório Geral
+4 - Consultas
+5 - Relatório Geral
 0 - Sair
 ```
 
